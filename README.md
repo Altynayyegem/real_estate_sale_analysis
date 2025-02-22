@@ -21,7 +21,7 @@ This project analyses real estate market dynamics and transaction analysis
 
 ## Results 
 During the exploratory analysis, the insights suggest that there had been a positive trend in price increases from 2001 to 2022. 
-In addition, results represent a positive correlation between increasing assessed values and sale amounts. 
+In addition, results represent a moderate positive correlation between increasing assessed values and sale amounts. 
 Yet, the correlation is not perfect, and other factors could influence the growth in sale prices over time. Next, the findings determined that apartments are the most expensive among other property types, while public utilities are the least costly. 
 Finally, results identified Greenwich as the most expensive town in the United States. Meanwhile, the highest transactions occurred in Bridgeport, Stamford and Waterbury.
 
