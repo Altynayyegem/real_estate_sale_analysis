@@ -7,6 +7,8 @@ This project analyses real estate market dynamics and transaction analysis
 - Source: DataGov (https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
 - Size: 1,097,631
 - Description: Price, Assessed Value, Location, Property Types
+- Uncleaned Dataset: https://drive.google.com/file/d/1EVkryRrqJMdU1JCss0som56s0mVujdWC/view?usp=drive_link
+- Cleaned Dataset: https://drive.google.com/file/d/1XmYXoGJyZV7kiN_mEN1j8Fs18qNkuMCs/view?usp=sharing
 
 ## Tech Stack  
 - Python: Pandas, Numpy, Matplotlib, Pyplot
