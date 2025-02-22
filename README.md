@@ -13,7 +13,7 @@ This project analyses real estate market dynamics and transaction analysis
 ## Tech Stack  
 - **Python:** Pandas, NumPy, Matplotlib  
 - **SQL:** SQLite for querying data  
-- **Other:** CSV, PrettyTable  
+- **Other:** CSV, PrettyTable, Tableau  
 
 ## Steps Taken  
 - Data Cleaning (importing, handling missing values, standardizing categorical data, correcting data format, binning, binning visualisation)
