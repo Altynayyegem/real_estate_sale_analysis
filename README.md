@@ -26,7 +26,7 @@ Yet, the correlation is not perfect, and other factors could influence the growt
 Finally, results identified Greenwich as the most expensive town in the United States. Meanwhile, the highest transactions occurred in Bridgeport, Stamford and Waterbury.
 
 ## Next Steps
-Further investigations are suggested based on the given exploratory analysis. Future questions can include the cause of high transactions in the top cities and the reason for increasing sale prices. Since the correlation between increasing assessed value and sale amount did not show the perfect positive correlations.
+Further investigations are suggested based on the given exploratory analysis. Examinations can include the cause of high transactions in the top cities and the reason for increasing sale prices. Since the correlation between increasing assessed value and sale amount did not show the perfect positive correlations.
 
 In addition, the limitation for data cleaning exists due to the size of the dataset. The limitation consists of rows with repeating data, while the varying sale amounts are comparatively low compared to one repetitive assessed value. That perhaps implies one assessed value for the entire block with clustered properties. Those properties were sold separately, contributing to separate transactions at different times. Future analysis could include the aggregated data frame for further investigations.
 
