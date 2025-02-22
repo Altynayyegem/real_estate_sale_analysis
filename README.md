@@ -1,6 +1,7 @@
-# Project Title: Real Estate Sales Analysis (USA, 2001-2022)
+# Real Estate Sales Analysis (USA, 2001-2022)
 
-## Introduction: This project analyses real estate market dynamics and transaction analysis
+## Introduction: 
+This project analyses real estate market dynamics and transaction analysis
 
 ## Dataset
 - Source: DataGov (https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
